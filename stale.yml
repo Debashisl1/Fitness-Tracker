@@ -1,0 +1,14 @@
+
+daysUntilStale: 60
+
+daysUntilClose: 7
+
+exemptLabels:
+  - pinned
+  - security
+
+staleLabel: inactive
+
+markComment: >
+
+closeComment: false
